@@ -1,6 +1,7 @@
 <h1 align="center">Fifo vs RED</h1>
 
-<p align="center">Códigos para os testes de 2021 comparando o desempenho dos algoritmos de enfileiramento FIFO e RED e suas influências sobre a autossimilaridade.</p>
+<p align="center">Códigos para os testes de 2021 comparando o desempenho dos algoritmos de enfileiramento FIFO e RED e suas influências sobre a autossimilaridade. Os arquivos fifo-vs-red-onoff cria e executa o cenário que gera o arquivo .tr. Já o script.sh extrai inforações de recebimento de mensagens contidas no arquivo .tr guardando-as em um documento de texto.</p>
+</p>
 
 ### Status
 <h4 align="center"> 
