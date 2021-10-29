@@ -1,6 +1,6 @@
 <h1 align="center">Fifo vs RED</h1>
 
-<p align="center">Códigos para os testes de 2021 comparando o desempenho dos algoritmos de enfileiramento FIFO e RED e suas influências sobre a autossimilaridade. Os arquivos fifo-vs-red-onoff cria e executa o cenário que gera o arquivo .tr. Já o script.sh extrai inforações de recebimento de mensagens contidas no arquivo .tr guardando-as em um documento de texto.</p>
+<p align="center">Códigos para os testes de 2021 comparando o desempenho dos algoritmos de enfileiramento FIFO e RED e suas influências sobre a autossimilaridade. Os arquivos fifo-vs-red-onoff cria e executa o cenário que gera o arquivo .tr. Já o script.sh extrai inforações de recebimento de mensagens contidas no arquivo .tr guardando-as em um documento de texto. Este projeto é uma evolução do meu TCC (disponível em: https://github.com/JorgeMagno/tcc_2018_ufc_quixada) tornando os valores de alguns parâmetros mais reais e intoduzindo o intervalo de confiança.</p>
 </p>
 
 ### Status
@@ -9,7 +9,7 @@
 </h4>
 
 ### Pré-requisitos
-- Instalação do [NS3](https://www.nsnam.org/docs/tutorial/html/getting-started.html) para a criação e execução dos testes usando "fifo-vs-red-onoff.cc". Obs: para alternar entre FIFO e RED assim como modificar parâmetros do RED é necessário modificar diretamente no código(fifo-vs-red-onoff.cc).
+- Instalação do [NS3](https://www.nsnam.org/docs/tutorial/html/getting-started.html) para a criação e execução dos testes usando "fifo-vs-red-onoff.cc". Obs: para alternar entre FIFO e RED assim como modificar parâmetros do RED é necessário modificar diretamente no código (fifo-vs-red-onoff.cc).
 - [R](https://www.r-project.org/) para calcular a autossimilaridade do tráfego a partir do documento de texto gerado pelo "script.sh". Ver: [RoverS](https://rdrr.io/cran/fractal/man/RoverS.html).
 
 
