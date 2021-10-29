@@ -1,6 +1,6 @@
 <h1 align="center">Fifo vs RED</h1>
 
-<p align="center">Códigos para os testes de 2021 comparando o desempenho dos algoritmos de enfileiramento FIFO e RED e suas influências sobre a autossimilaridade. O arquivo </p>
+<p align="center">Códigos para os testes de 2021 comparando o desempenho dos algoritmos de enfileiramento FIFO e RED e suas influências sobre a autossimilaridade.</p>
 
 ### Status
 <h4 align="center"> 
